@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou Kawã Vinícius
 
-<!--
-**Kawa-Vinicius-Dev/Kawa-Vinicius-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação**, com foco em **Java** e **desenvolvimento Fullstack**, criando projetos práticos voltados para problemas do mundo real.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🎓 Estudante de Ciência da Computação
+- ☕ Desenvolvimento backend com Java
+- 🌐 Desenvolvimento Fullstack (backend e frontend)
+- 🧠 Forte foco em lógica, código limpo e organização de projetos
+- 🔍 Interesse em sistemas web, APIs, aplicações mobile e automação
+
+---
+
+## 🛠️ Tecnologias
+- **Linguagens:** Java
+- **Backend:** Java (APIs REST)
+- **Frontend:** HTML, CSS, JavaScript
+- **Mobile:** Android (Java)
+- **Ferramentas:** Git, GitHub, Android Studio
+- **Conceitos:** POO, MVC, APIs REST, arquitetura limpa
+
+---
+
+## 📌 Projeto Principal
+### 📦 Aplicativo de Leitura RFID
+Aplicação Android profissional focada na leitura de RFID, validação por loja e setor, e feedback visual de status.
+
+🔗 Repositório:  
+👉 [`app-leitura-rfid`](https://github.com/Kawa-Vinicius-Dev/app-leitura-rfid)
+
+---
+
+## 📫 Contato
+- GitHub: [github.com/Kawa-Vinicius-Dev](https://github.com/Kawa-Vinicius-Dev)
+
+---
+
+⭐ Sempre aprendendo. Sempre evoluindo.
