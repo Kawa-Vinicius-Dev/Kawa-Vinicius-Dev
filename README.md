@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Kawã Vinícius
 
-Sou estudante de **Ciência da Computação**, com foco em **Java** e **desenvolvimento Fullstack**, criando projetos práticos voltados para problemas do mundo real.
+Sou estudante de **Ciência da Computação**, com foco em **Java** e **desenvolvimento back-end**, criando projetos práticos voltados para problemas do mundo real.
 
 ---
 
