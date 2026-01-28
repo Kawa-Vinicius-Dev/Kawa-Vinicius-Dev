@@ -4,16 +4,16 @@ Sou estudante de **Ciência da Computação**, com foco em **Java** e **desenvol
 
 ---
 
-## 🚀 Sobre mim
-- 🎓 Estudante de Ciência da Computação
-- ☕ Desenvolvimento backend com Java
-- 🌐 Desenvolvimento Fullstack (backend e frontend)
-- 🧠 Forte foco em lógica, código limpo e organização de projetos
-- 🔍 Interesse em sistemas web, APIs, aplicações mobile e automação
+##  Sobre mim
+-  Estudante de Ciência da Computação
+-  Desenvolvimento backend com Java
+-  Desenvolvimento Fullstack (backend e frontend)
+-  Forte foco em lógica, código limpo e organização de projetos
+-  Interesse em sistemas web, APIs, aplicações mobile e automação
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 - **Linguagens:** Java
 - **Backend:** Java (APIs REST)
 - **Frontend:** HTML, CSS, JavaScript
@@ -23,8 +23,8 @@ Sou estudante de **Ciência da Computação**, com foco em **Java** e **desenvol
 
 ---
 
-## 📌 Projeto Principal
-### 📦 Aplicativo de Leitura RFID
+##  Projeto Principal
+###  Aplicativo de Leitura RFID
 Aplicação Android profissional focada na leitura de RFID, validação por loja e setor, e feedback visual de status.
 
 🔗 Repositório:  
@@ -32,9 +32,9 @@ Aplicação Android profissional focada na leitura de RFID, validação por loja
 
 ---
 
-## 📫 Contato
+##  Contato
 - GitHub: [github.com/Kawa-Vinicius-Dev](https://github.com/Kawa-Vinicius-Dev)
 
 ---
 
-⭐ Sempre aprendendo. Sempre evoluindo.
+ Sempre aprendendo. Sempre evoluindo.
