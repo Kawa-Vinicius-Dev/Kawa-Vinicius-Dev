@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Kawã Vinícius
+#  Olá, eu sou Kawã Vinícius
 
 Sou estudante de **Ciência da Computação**, com foco em **Java** e **desenvolvimento back-end**, criando projetos práticos voltados para problemas do mundo real.
 
@@ -27,8 +27,8 @@ Sou estudante de **Ciência da Computação**, com foco em **Java** e **desenvol
 ###  Aplicativo de Leitura RFID
 Aplicação Android profissional focada na leitura de RFID, validação por loja e setor, e feedback visual de status.
 
-🔗 Repositório:  
-👉 [`app-leitura-rfid`](https://github.com/Kawa-Vinicius-Dev/app-leitura-rfid)
+ Repositório:  
+ [`app-leitura-rfid`](https://github.com/Kawa-Vinicius-Dev/app-leitura-rfid)
 
 ---
 
