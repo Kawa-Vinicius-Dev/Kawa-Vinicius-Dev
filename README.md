@@ -1,32 +1,32 @@
 # Kawã Vinicius
 
-`Java` · `Backend` · `Android` · `SQL`
+### Desenvolvedor Java em formação | Backend · Android · SQL
 
-Estudante de Ciência da Computação com foco em desenvolvimento Java e backend. Busco uma oportunidade de estágio ou desenvolvedor Java júnior para aplicar fundamentos de programação, banco de dados e desenvolvimento de software em projetos reais.
+Estudante de Ciência da Computação, construindo experiência prática com Java, orientação a objetos, aplicações Android e bancos de dados relacionais. Atualmente direciono meus estudos para desenvolvimento backend com Spring Boot e APIs REST.
 
-## Stack
+Busco uma oportunidade de estágio ou desenvolvimento Java júnior para contribuir em projetos reais e continuar evoluindo tecnicamente.
 
-- **Linguagens:** Java, Kotlin, SQL e JavaScript
-- **Fundamentos:** lógica de programação e orientação a objetos
-- **Desenvolvimento:** Android com Java, HTML e CSS
-- **Ferramentas:** Git, GitHub, IntelliJ IDEA e Android Studio
+## Competências técnicas
 
-## Em desenvolvimento
+- **Java:** lógica de programação, orientação a objetos, estruturas de controle, métodos e arrays
+- **Android:** desenvolvimento de aplicações com Java, Android SDK e SQLite
+- **Banco de dados:** SQL, modelagem relacional e PostgreSQL
+- **Web:** JavaScript, React, HTML e CSS
+- **Ferramentas:** Git, GitHub, Gradle, IntelliJ IDEA e Android Studio
+- **Conhecimento complementar:** Kotlin
 
-`Spring Boot` · `APIs REST` · `Collections` · `PostgreSQL` · `Testes automatizados`
+## Foco atual
+
+`Spring Boot` · `APIs REST` · `Collections Framework` · `PostgreSQL` · `Testes automatizados`
 
 ## Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | O que demonstra | Tecnologias |
 |---|---|---|
-| [Inventário patrimonial com RFID](https://github.com/Kawa-Vinicius-Dev/app-leitura-rfid) | Aplicativo Android para leitura RFID, validação por loja e setor e exportação do inventário. | Java, Android, SQLite |
-| [Lógica de programação](https://github.com/Kawa-Vinicius-Dev/logica-de-programacao) | Registro contínuo da minha evolução em lógica, validação, estruturas de controle e métodos. | Java |
-| [Exercícios de arrays](https://github.com/Kawa-Vinicius-Dev/exercicios-array) | Exercícios com arrays, matrizes, cálculos e resolução de problemas. | Java |
-| [Denguinho](https://github.com/Kawa-Vinicius-Dev/denguinho-refatorado) | Aplicação web para acompanhamento compartilhado de hábitos. | React, Supabase, PostgreSQL |
-
-## Objetivo
-
-Atuar em desenvolvimento de software como estagiário ou desenvolvedor Java júnior, contribuindo com implementação, manutenção e evolução de aplicações.
+| [Inventário patrimonial com RFID](https://github.com/Kawa-Vinicius-Dev/app-leitura-rfid) | Integração com leitor RFID, validação de itens, persistência local e exportação de inventário. | Java, Android, SQLite |
+| [Lógica de programação](https://github.com/Kawa-Vinicius-Dev/logica-de-programacao) | Evolução prática em lógica, validação de entradas, estruturas de controle e métodos. | Java |
+| [Exercícios de arrays](https://github.com/Kawa-Vinicius-Dev/exercicios-array) | Resolução de problemas utilizando arrays, matrizes, percursos e cálculos. | Java |
+| [Denguinho](https://github.com/Kawa-Vinicius-Dev/denguinho-refatorado) | Construção de uma aplicação web com interface em React e persistência no Supabase. | React, Supabase, PostgreSQL |
 
 ## Contato
 
