@@ -4,7 +4,7 @@
 
 Estudante de Ciência da Computação, construindo experiência prática com Java, orientação a objetos, aplicações Android e bancos de dados relacionais. Atualmente direciono meus estudos para desenvolvimento backend com Spring Boot e APIs REST.
 
-Busco uma oportunidade de estágio ou desenvolvimento Java júnior para contribuir em projetos reais e continuar evoluindo tecnicamente.
+Busco uma oportunidade de desenvolvimento Java júnior para contribuir em projetos reais e continuar evoluindo tecnicamente.
 
 ## Competências técnicas
 
