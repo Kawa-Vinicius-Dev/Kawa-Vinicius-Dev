@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="https://github.com/Kawa-Vinicius-Dev.png" width="120" alt="Kawã Vinicius" />
+# Kawã Viana
 
-# Kawã Vinicius
-
-### Desenvolvedor Java | Backend com Spring Boot · React · PostgreSQL
-
-Estudante de Ciência da Computação construindo experiência prática em backend com Java e Spring Boot, complementada por frontend em React/TypeScript e aplicações Android. Meu projeto mais recente é um sistema de gestão financeira em produção, usado por um cliente real.
-
-[![GitHub followers](https://img.shields.io/github/followers/Kawa-Vinicius-Dev?style=flat&logo=github&label=seguidores&color=3178C6)](https://github.com/Kawa-Vinicius-Dev?tab=followers)
+### Desenvolvedor Backend · Java · Spring Boot
 
 </div>
+
+```console
+$ whoami
+Kawã Viana — formando em Ciência da Computação
+
+$ ls -1 producao/
+fluxo-de-gestao    # sistema de gestão financeira usado por um cliente real
+```
+
+Formando em Ciência da Computação, com foco em desenvolvimento backend. Meu principal projeto é um sistema de gestão financeira que construí de ponta a ponta — modelagem de dados, API em Spring Boot, interface em React e deploy em nuvem — e que hoje roda em produção para um cliente real. Também desenvolvo aplicações Android em Java e Kotlin.
 
 ---
 
@@ -41,6 +45,7 @@ Estudante de Ciência da Computação construindo experiência prática em backe
 
 ## Contato
 
-Aberto a oportunidades como desenvolvedor(a) Java / Backend.
+Aberto a oportunidades como desenvolvedor Java / Backend.
 
+[![Gmail](https://img.shields.io/badge/kawa.vinicius.dev@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:kawa.vinicius.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Kawa--Vinicius--Dev-181717?logo=github&logoColor=white)](https://github.com/Kawa-Vinicius-Dev)
