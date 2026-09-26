@@ -2,7 +2,7 @@
 
 # Kawã Viana
 
-### Desenvolvedor Backend · Java · Spring Boot
+### Desenvolvedor Backend em formação · Ciência da Computação · Java , Spring Boot, SQL
 
 </div>
 
