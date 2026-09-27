@@ -30,7 +30,8 @@ def ping(url):
     t0 = time.monotonic()
     try:
         r = requests.get(url, timeout=20, headers={"User-Agent": "kawa-profile-status"})
-        return {"up": r.status_code < 400, "code": r.status_code, "ms": round((time.monotonic() - t0) * 1000)}
+        # any answer below 500 means the server is running (a login-protected API replies 401/403)
+        return {"up": r.status_code < 500, "code": r.status_code, "ms": round((time.monotonic() - t0) * 1000)}
     except requests.RequestException:
         return {"up": False, "code": None, "ms": None}
 
