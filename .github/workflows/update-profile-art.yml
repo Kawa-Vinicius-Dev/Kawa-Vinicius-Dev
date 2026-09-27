@@ -21,7 +21,12 @@ jobs:
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/fetch_contributions.py
       - run: python scripts/render_heatmap_svg.py
+      - run: python scripts/fetch_status.py
+        env:
+          PROD_URL: ${{ secrets.PROD_URL }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: python scripts/render_cards.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: atualiza gráfico de contribuições [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: atualiza gráfico, trilha e status [skip ci]"
+          file_pattern: "data/*.json *.svg"
