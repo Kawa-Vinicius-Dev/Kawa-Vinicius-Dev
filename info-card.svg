@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 400" width="490" height="400">
+<style>.l{opacity:0;animation:in .4s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}</style>
+<rect width="100%" height="100%" rx="8" fill="#0d1117"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c9d1d9">
+<text class="l" style="animation-delay:0.00s" x="22" y="40"><tspan fill="#39d353" font-weight="bold">kawa@github</tspan></text>
+<text class="l" style="animation-delay:0.12s" x="22" y="66"><tspan fill="#484f58">-----------</tspan></text>
+<text class="l" style="animation-delay:0.24s" x="22" y="92"><tspan fill="#39d353" font-weight="bold">Nome</tspan><tspan fill="#484f58">: </tspan>Kawã Viana</text>
+<text class="l" style="animation-delay:0.36s" x="22" y="118"><tspan fill="#39d353" font-weight="bold">Foco</tspan><tspan fill="#484f58">: </tspan>Backend · Java / Spring Boot</text>
+<text class="l" style="animation-delay:0.48s" x="22" y="144"><tspan fill="#39d353" font-weight="bold">Formação</tspan><tspan fill="#484f58">: </tspan>Ciência da Computação</text>
+<text class="l" style="animation-delay:0.60s" x="22" y="170"><tspan fill="#39d353" font-weight="bold">Produção</tspan><tspan fill="#484f58">: </tspan>Fluxo de Gestão (cliente real)</text>
+<text class="l" style="animation-delay:0.72s" x="22" y="196"><tspan fill="#39d353" font-weight="bold">Projetos</tspan><tspan fill="#484f58">: </tspan>PedeAí · RFID Android · Cardápio</text>
+<text class="l" style="animation-delay:0.84s" x="22" y="222"><tspan fill="#39d353" font-weight="bold">Stack</tspan><tspan fill="#484f58">: </tspan>Java, Spring, PostgreSQL, React, TS</text>
+<text class="l" style="animation-delay:0.96s" x="22" y="248"><tspan fill="#39d353" font-weight="bold">Estudando</tspan><tspan fill="#484f58">: </tspan>JUnit 5, Mockito, JDBC, Docker</text>
+<text class="l" style="animation-delay:1.08s" x="22" y="274"><tspan fill="#39d353" font-weight="bold">Agora</tspan><tspan fill="#484f58">: </tspan>Protocolo Carrasco · 247 exercícios</text>
+<text class="l" style="animation-delay:1.20s" x="22" y="300"><tspan fill="#39d353" font-weight="bold">Status</tspan><tspan fill="#484f58">: </tspan>aberto a júnior / trainee / estágio</text>
+<text class="l" style="animation-delay:1.32s" x="22" y="326"><tspan fill="#39d353" font-weight="bold">Contato</tspan><tspan fill="#484f58">: </tspan>kawa.vinicius.dev@gmail.com</text>
+<g class="l" style="animation-delay:1.44s">
+<rect x="22" y="350" width="22" height="16" rx="3" fill="#161b22"/>
+<rect x="48" y="350" width="22" height="16" rx="3" fill="#0e4429"/>
+<rect x="74" y="350" width="22" height="16" rx="3" fill="#006d32"/>
+<rect x="100" y="350" width="22" height="16" rx="3" fill="#26a641"/>
+<rect x="126" y="350" width="22" height="16" rx="3" fill="#39d353"/>
+<rect x="152" y="350" width="22" height="16" rx="3" fill="#58a6ff"/>
+<rect x="178" y="350" width="22" height="16" rx="3" fill="#d2a8ff"/>
+<rect x="204" y="350" width="22" height="16" rx="3" fill="#f0883e"/>
+</g>
+</g>
+</svg>

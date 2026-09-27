@@ -4,15 +4,22 @@
 
 ### Desenvolvedor Backend em formação · Ciência da Computação · Java, Spring Boot, SQL
 
+<br>
+
+<h3><code>kawa@github ~ $ ./contribuicoes.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Gráfico de contribuições do último ano" />
+
+<br><br>
+
+<h3><code>kawa@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./kawa-ascii.svg" width="370" alt="Retrato em ASCII de Kawã" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Kawã Viana — Backend Java / Spring Boot, Ciência da Computação" /></td>
+  </tr>
+</table>
+
 </div>
-
-```console
-$ whoami
-Kawã Viana — formando em Ciência da Computação
-
-$ ls -1 producao/
-fluxo-de-gestao    # sistema de gestão financeira usado por um cliente real
-```
 
 Formando em Ciência da Computação, com foco em desenvolvimento backend. Meu principal projeto é um sistema de gestão financeira que construí de ponta a ponta para uma empresa de guincho e que hoje roda em produção, usado pela equipe no dia a dia. Também desenvolvo aplicações Android em Java.
 

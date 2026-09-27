@@ -1,0 +1,6 @@
+# local only, when the photo changes: prep_photo.py + make_ascii_svg.py
+pillow
+numpy
+opencv-python-headless
+rembg
+onnxruntime

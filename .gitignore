@@ -1,0 +1,3 @@
+﻿# raw/prepped photos never go public, only the ASCII output
+source-*
+.venv/
