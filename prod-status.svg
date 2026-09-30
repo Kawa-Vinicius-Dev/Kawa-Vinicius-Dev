@@ -4,8 +4,8 @@
 <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c9d1d9">
 <text class="l" style="animation-delay:0.00s" x="18" y="37"><tspan fill="#39d353" class="p">●</tspan><tspan fill="#c9d1d9" font-weight="bold">&#160;fluxo-de-gestao.service</tspan>&#160;-&#160;Gestão&#160;financeira&#160;p/&#160;empresa&#160;de&#160;guincho&#160;·&#160;cliente&#160;real</text>
 <text class="l" style="animation-delay:0.15s" x="18" y="61"><tspan fill="#8b949e">&#160;&#160;&#160;&#160;&#160;Loaded:&#160;</tspan>loaded&#160;(Java&#160;·&#160;Spring&#160;Boot&#160;·&#160;PostgreSQL&#160;·&#160;React&#160;·&#160;TypeScript)</text>
-<text class="l" style="animation-delay:0.30s" x="18" y="85"><tspan fill="#8b949e">&#160;&#160;&#160;&#160;&#160;Active:&#160;</tspan><tspan fill="#39d353" font-weight="bold">active&#160;(running)</tspan>&#160;·&#160;4/4&#160;verificações&#160;diárias&#160;OK&#160;·&#160;monitorado&#160;desde&#160;27/09/2026</text>
-<text class="l" style="animation-delay:0.45s" x="18" y="109"><tspan fill="#8b949e">&#160;Last&#160;check:&#160;</tspan>29/09&#160;10:01&#160;(BRT)&#160;·&#160;HTTP&#160;200&#160;·&#160;182&#160;ms</text>
+<text class="l" style="animation-delay:0.30s" x="18" y="85"><tspan fill="#8b949e">&#160;&#160;&#160;&#160;&#160;Active:&#160;</tspan><tspan fill="#39d353" font-weight="bold">active&#160;(running)</tspan>&#160;·&#160;5/5&#160;verificações&#160;diárias&#160;OK&#160;·&#160;monitorado&#160;desde&#160;27/09/2026</text>
+<text class="l" style="animation-delay:0.45s" x="18" y="109"><tspan fill="#8b949e">&#160;Last&#160;check:&#160;</tspan>30/09&#160;09:44&#160;(BRT)&#160;·&#160;HTTP&#160;200&#160;·&#160;479&#160;ms</text>
 <text class="l" style="animation-delay:0.60s" x="18" y="133"><tspan fill="#8b949e">&#160;&#160;&#160;&#160;&#160;&#160;&#160;Docs:&#160;</tspan><tspan fill="#58a6ff">github.com/Kawa-Vinicius-Dev/gestao-guincho-demo</tspan><tspan fill="#8b949e">&#160;&#160;(versão&#160;demo)</tspan></text>
 </g>
 </svg>
