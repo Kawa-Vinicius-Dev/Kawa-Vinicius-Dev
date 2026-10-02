@@ -35,10 +35,16 @@
    "up": true,
    "code": 200,
    "ms": 184
+  },
+  {
+   "at": "2026-10-02T12:46Z",
+   "up": true,
+   "code": 200,
+   "ms": 355
   }
  ],
  "trilha": {
-  "feitos": 30,
+  "feitos": 31,
   "total": 247
  }
 }
