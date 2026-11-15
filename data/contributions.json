@@ -2,41 +2,6 @@
  "user": "Kawa-Vinicius-Dev",
  "days": [
   {
-   "date": "2025-11-09",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-10",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-11",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-12",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-13",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-14",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-15",
-   "level": 0,
-   "count": 0
-  },
-  {
    "date": "2025-11-16",
    "level": 0,
    "count": 0
@@ -1854,10 +1819,15 @@
   {
    "date": "2026-11-14",
    "level": 1,
-   "count": 6
+   "count": 7
+  },
+  {
+   "date": "2026-11-15",
+   "level": 0,
+   "count": 0
   }
  ],
- "total": 1017,
+ "total": 1018,
  "current_streak": 54,
  "longest_streak": 54,
  "best_day": {
