@@ -1823,13 +1823,18 @@
   },
   {
    "date": "2026-11-15",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-16",
    "level": 0,
    "count": 0
   }
  ],
- "total": 1018,
- "current_streak": 54,
- "longest_streak": 54,
+ "total": 1019,
+ "current_streak": 55,
+ "longest_streak": 55,
  "best_day": {
   "date": "2026-09-22",
   "count": 108
